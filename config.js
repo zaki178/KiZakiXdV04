@@ -10,20 +10,20 @@ global.autoReadAll = true
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6285878313791']
+global.owner = ['62895376867500']
 global.pengguna = 'KiZakiXD'
 global.premium = []
 global.author = 'KiZakiXD'
-global.pemilik = ['6285878313791'] 
-global.ownernomer = '6285878313791'
-global.ownername = 'KiZakiXD'
-global.botname = 'Chitanda - MD'
+global.pemilik = ['62895376867500'] 
+global.ownernomer = '62895376867500'
+global.ownername = 'ྂᴋᴀɴɢ ᴋᴏᴍᴘᴏʀ🍓⃝﷽'
+global.botname = '✈ᵇᵒᵗ𝒈𝒊𝒓𝒍✔'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '6285878313791'
-global.footer = '𝘊 𝘩 𝘪 𝘵 𝘢 𝘯 𝘥 𝘢 - 𝘔 𝘋'
+global.meki = '62895376867500'
+global.footer = 'ᴋᴀɴɢ ᴋᴏᴍᴘᴏʀ'
 //Isi Sesuai Namalu Buat Tambah Tqtq
-global.namalu = 'Namalu' //Ubah nama kalian buat nambahin di tqtq bot
+global.namalu = 'zaki' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Jangan Spam Bot.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
 global.yt = 'https://www.youtube.com/channel/UCHdipvk52k43KsPRenGpD0w' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
@@ -31,7 +31,7 @@ global.ig = 'https://instagram.com/iamkizakixd'
 global.gc = 'https://chat.whatsapp.com/IJ5ull4HXaY647D6ACw4kj' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
 global.dana = '00000'
 global.gopay = '0000'
-global.wame = 'wa.me/6285878313791'
+global.wame = 'wa.me/62895376867500'
 global.email = 'helloiamkizakixd@gmail.com'
 global.region = 'Indonesia'
 global.link = 'nekopoi.care'
@@ -39,7 +39,7 @@ global.sc = 'https://bit.ly/SubscribeFLOB'
 global.packname = '"{\nAuthor: KiZakiXD"\n"Bot Number: 6285848376737"\n"Bot Name: Chitanda - MD"\n"Instagram: @iamkizakixd"\n}' 
 global.author = '' 
 global.sessionName = 'session'
-global.prefa = ['#','!','/','']
+global.prefa = ['#'','!','.','🐦','🐤','🗿']
 global.sp = '❑ ' 
 global.mess = {
     success: 'Done Your Request',
@@ -53,7 +53,7 @@ global.mess = {
     error: 'Fitur sedang error!',
         endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
     wrongFormat: 'Perintah Salah!!\nSertakan Link setelah Command..',
-    example1: 'Welcome @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @subject (Group Name)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)'
+    example1: 'Selamat datang @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @subject (Group Name)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)'
 ,
     example2: 'Good Bye @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @subject (Group Name)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)'    
     

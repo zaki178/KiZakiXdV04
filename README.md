@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/d2hqN4D/051f190bb343.jpg" alt="Sebut Saja Jaki" width="300" />
+<img src="https://raw.githubusercontent.com/zaki178/KiZakiXdV04/master/media/zaki.jpg" alt="Sebut Saja Jaki" width="300" />
 
 Jika Dirimu Pernah Menyesalinya Lantas Kenapa Kamu Mengulanginnya
 

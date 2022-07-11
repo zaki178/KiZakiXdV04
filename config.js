@@ -39,7 +39,7 @@ global.sc = 'https://bit.ly/SubscribeFLOB'
 global.packname = '"{\nAuthor: KiZakiXD"\n"Bot Number: 6285848376737"\n"Bot Name: Chitanda - MD"\n"Instagram: @iamkizakixd"\n}' 
 global.author = '' 
 global.sessionName = 'session'
-global.prefa = ['#'','!','.','🐦','🐤','🗿']
+global.prefa = ['#','!','/','']
 global.sp = '❑ ' 
 global.mess = {
     success: 'Done Your Request',
